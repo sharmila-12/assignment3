@@ -27,7 +27,7 @@ table, th, td {
     <table>
     <tr>
     <th>item</th>
-    <th>Qty</th> 
+    <th>Quantity</th> 
     <th>cost</th>
     </tr>
   
